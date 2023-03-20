@@ -1,39 +1,21 @@
-# YT-Trends
+# Module 1
 Developed By: Michael Pogue
-Created:      2023.02.22
+Created:      2023.03.19
 
-## Project Overview
-### Purpose:
-The purpose for this code is to generate data scraped from YouTube's auto-generated video game streams and stream it to Rabbit MQ. Once received, the values will be evaluated and finally a warning via email will be dispatched should the said values reach a specific number.
+## Submission 01:
+![image](https://user-images.githubusercontent.com/115908053/226219583-057ce1e2-0e83-4eb2-b1da-707e116ef0f8.png)
 
-The idea behind this is to monitor a website and create alerts in the event that a user-specified limit has been reached. 
+## Submission 02:
+![image](https://user-images.githubusercontent.com/115908053/226219648-8939cc75-83cf-4dd0-93c5-19df91cca6ac.png)
 
-## Project Requirements
-### Necessary Modules:
-1. pika
-1. sys
-1. time
-1. os
-1. ssl
-1. smtplib
-1. collections
-1. time
-1. dotenv 
-1. email.message
+## Submission 03:
+![image](https://user-images.githubusercontent.com/115908053/226219640-d9de4183-84ec-4cd5-a8ba-687fca23f3bb.png)
 
-### Environmental Factors:
-A .env or other environmental systems will be required in order to hide the sender's email password if this code is to be uploaded to GitHub.
-This is the structure of the environment: 
-![image](https://user-images.githubusercontent.com/115908053/221733609-b4b0f2ff-3a5f-4ee3-ae6a-ea8b9a48253d.png)
+## Submission 04:
 
-
-## Results
-
-Details of each functioning system:
-![image](https://user-images.githubusercontent.com/115908053/221660845-5c4687e5-fe7a-4bce-8a63-9a3a3b13a67d.png)
-
-
-
-Accuracy:
-![image](https://user-images.githubusercontent.com/115908053/221660465-27ee8762-f6fa-47da-8336-c50053e2384e.png)
-
+## Submission 05:
+## Submission 06:
+## Submission 07:
+## Submission 08:
+## Submission 09:
+## Submission 10:
