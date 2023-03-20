@@ -9,13 +9,20 @@ Created:      2023.03.19
 ![image](https://user-images.githubusercontent.com/115908053/226219648-8939cc75-83cf-4dd0-93c5-19df91cca6ac.png)
 
 ## Submission 03:
-![image](https://user-images.githubusercontent.com/115908053/226219640-d9de4183-84ec-4cd5-a8ba-687fca23f3bb.png)
+![image](https://user-images.githubusercontent.com/115908053/226221486-e595f0d4-f1e1-4d5b-aadc-2ff65001541f.png)
 
 ## Submission 04:
 
+
 ## Submission 05:
+
+
 ## Submission 06:
+
 ## Submission 07:
+
+
 ## Submission 08:
+
 ## Submission 09:
 ## Submission 10:
