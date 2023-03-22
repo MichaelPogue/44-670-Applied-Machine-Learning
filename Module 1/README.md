@@ -1,6 +1,7 @@
 # Module 1
-Developed By: Michael Pogue
-Created:      2023.03.19
+By: Michael Pogue
+
+Created: 2023.03.19
 
 ## Submission 01:
 ![image](https://user-images.githubusercontent.com/115908053/226219583-057ce1e2-0e83-4eb2-b1da-707e116ef0f8.png)
